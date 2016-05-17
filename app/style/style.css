@@ -39,17 +39,24 @@ body {
     list-style: none; }
   body #wrapper {
     vertical-align: top;
-    padding-top: 70px;
     height: 640px;
     width: 70%;
     margin: 0px auto;
     background-color: rgba(0, 0, 0, 0.8);
-    padding-bottom: 50px;
-    padding-left: 50px; }
+    padding: 50px; }
   body .main {
     margin: 0px auto;
     width: 100%;
     height: 100%; }
+  body .divButton {
+    width: 100%;
+    clear: both;
+    text-align: center; }
+    body .divButton button {
+      border: none;
+      border-radius: 5px; }
+      body .divButton button a {
+        color: black; }
 
 @font-face {
   font-family: 'Electrolize';
