@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c717f54-97d2-46d6-9b5a-de9fcab3bb31" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries/b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries/c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries/d.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/style/style.css" afterPath="$PROJECT_DIR$/app/style/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/style/style.css.map" afterPath="$PROJECT_DIR$/app/style/style.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/style/style.scss" afterPath="$PROJECT_DIR$/app/style/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/a.html" afterPath="$PROJECT_DIR$/app/views/countries/a.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home.html" afterPath="$PROJECT_DIR$/app/views/home.html" />
     </list>
     <ignored path="Issue-Tracking-System-AngularJS-Practical-Project.iws" />
@@ -30,7 +27,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/style/style.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -40,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/countries/a.html">
+      <file leaf-file-name="d.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/countries/d.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+            <state relative-caret-position="272">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
               </folding>
@@ -52,36 +49,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="b.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/countries/b.html">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar-header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/navbar-header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -89,8 +62,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            <state relative-caret-position="391">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -140,12 +113,14 @@
         <option value="$PROJECT_DIR$/app/js/services/authenticationService.js" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/views/navbar-header.html" />
-        <option value="$PROJECT_DIR$/app/js/app.js" />
-        <option value="$PROJECT_DIR$/app/views/home.html" />
         <option value="$PROJECT_DIR$/app/style/style.css" />
         <option value="$PROJECT_DIR$/app/views/countries/b.html" />
         <option value="$PROJECT_DIR$/app/views/countries/a.html" />
         <option value="$PROJECT_DIR$/app/style/style.scss" />
+        <option value="$PROJECT_DIR$/app/views/countries/c.html" />
+        <option value="$PROJECT_DIR$/app/views/home.html" />
+        <option value="$PROJECT_DIR$/app/js/app.js" />
+        <option value="$PROJECT_DIR$/app/views/countries/d.html" />
       </list>
     </option>
   </component>
@@ -423,12 +398,12 @@
       <workItem from="1463160630815" duration="12164000" />
       <workItem from="1463380775652" duration="316000" />
       <workItem from="1463467014341" duration="717000" />
-      <workItem from="1463468106517" duration="14491000" />
+      <workItem from="1463468106517" duration="15526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161942000" />
+    <option name="totallyTimeSpent" value="162977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="1" />
@@ -471,8 +446,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/style/morphext.css" />
-    <entry file="file://$PROJECT_DIR$/app/libs/morphext.js" />
     <entry file="file://$PROJECT_DIR$/app/img/softuni-long-logo.png" />
     <entry file="file://$PROJECT_DIR$/app/img/softuni-9.jpg" />
     <entry file="file://$PROJECT_DIR$/app/img/softuni-8.jpg" />
@@ -617,44 +590,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/style/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/navbar-header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -672,7 +611,17 @@
     <entry file="file://$PROJECT_DIR$/app/views/countries/b.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+          <caret line="25" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries/c.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
           </folding>
@@ -684,6 +633,50 @@
         <state relative-caret-position="255">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/navbar-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries/d.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
