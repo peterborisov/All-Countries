@@ -10,10 +10,10 @@ app.config(['$routeProvider', function ($routeProvider) {
     $routeProvider
         .when('/', {
             templateUrl: 'views/home.html'
-        }) 
+        })
         .when('/a', {
             templateUrl: 'views/countries/a.html'
-        }) 
+        })
         .when('/b', {
             templateUrl: 'views/countries/b.html'
         })
@@ -25,8 +25,12 @@ app.config(['$routeProvider', function ($routeProvider) {
         })
         .when('/e', {
             templateUrl: 'views/countries/e.html'
-        })  .when('/f', {
+        })
+        .when('/f', {
             templateUrl: 'views/countries/f.html'
+        })
+        .when('/g', {
+            templateUrl: 'views/countries/g.html'
         })
         .otherwise({
             redirectTo: '/'
