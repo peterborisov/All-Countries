@@ -9,7 +9,7 @@ body {
   body aside {
     box-sizing: border-box;
     display: inline-block;
-    width: 300px;
+    width: 270px;
     vertical-align: top; }
   body .coverImg {
     height: auto;
