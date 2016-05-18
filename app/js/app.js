@@ -50,6 +50,9 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/m', {
             templateUrl: 'views/countries/m.html'
         })
+        .when('/n', {
+            templateUrl: 'views/countries/n.html'
+        })
         .otherwise({
             redirectTo: '/'
         });
