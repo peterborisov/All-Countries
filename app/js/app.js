@@ -11,6 +11,9 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/', {
             templateUrl: 'views/home.html'
         })
+        .when('/a-z', {
+            templateUrl: 'views/a-z.html'
+        })
         .when('/a', {
             templateUrl: 'views/countries/a.html'
         })
@@ -85,6 +88,13 @@ app.config(['$routeProvider', function ($routeProvider) {
         }).when('/z', {
             templateUrl: 'views/countries/z.html'
         })
+        
+        
+        .when('/afghanistan', {
+            templateUrl: 'views/countries-info/afghanistan.html'
+        })
+        
+        
         .otherwise({
             redirectTo: '/'
         });

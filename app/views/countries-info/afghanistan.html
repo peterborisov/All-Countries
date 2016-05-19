@@ -1,0 +1,125 @@
+<script>
+    var moveForce = 30; // max popup movement in pixels
+    var rotateForce = 30; // max popup rotation in deg
+
+    $(document).mousemove(function(e) {
+        var docX = $(document).width();
+        var docY = $(document).height();
+
+        var moveX = (e.pageX - docX/2) / (docX/2) * -moveForce;
+        var moveY = (e.pageY - docY/2) / (docY/2) * -moveForce;
+
+        var rotateY = (e.pageX / docX * rotateForce*2) - rotateForce;
+        var rotateX = -((e.pageY / docY * rotateForce*2) - rotateForce);
+
+        $('.popup')
+                .css('left', moveX+'px')
+                .css('top', moveY+'px')
+                .css('transform', 'rotateX('+rotateX+'deg) rotateY('+rotateY+'deg)');
+    });
+</script>
+
+
+
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+
+</div>
+
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Afghanistan<img src="img/afghanistan-flag.gif" alt="" style="margin-left: 30px"  onclick="view('img/afghanistan-flag.gif')"></h1>
+    <div style="height: 40%;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src="https://www.youtube.com/v/JvEd5tM2aIo"></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population <br/>
+                        31 822 848
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area <br/>
+                        250,000 sq mi <br/>(647,500 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money <br/>
+                        Afghani
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital <br/>
+                        Kabul <br/> 3 097 300
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div  id="cities" class="moving-zone">
+            <div  class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                       <span> Large cities: <br/>
+                        Kandahar, 349 300<br/>
+                        Mazar-i-Sharif, 246 900<br/>
+                        Charikar, 202 600<br/>
+                        Herat, 171 500</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--<p class="starburst">-->
+   <!--<span><span><span>-->
+      <!--<br/>Population<br/>31 822 848<br/>-->
+   <!--</span></span></span>-->
+        <!--</p>-->
+        <!--<p class="starburst">-->
+   <!--<span><span><span>-->
+      <!--<br/> Total area<br/>250,000 sq mi<br/>-->
+   <!--</span></span></span>-->
+        <!--</p>-->
+        <!--<p class="starburst">-->
+   <!--<span><span><span>-->
+      <!--<br/>Capital<br/>Kabul<br/>3,097,300-->
+   <!--</span></span></span>-->
+        <!--</p>-->
+    </div>
+
+
+    <img src="img/afghanistan-map.gif" class="img-thumbnail" onclick="view('img/afghanistan-map.gif')"/>
+
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/a">Back to A</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=500,height=500');
+    }
+</script>
