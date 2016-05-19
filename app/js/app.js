@@ -34,7 +34,7 @@ app.config(['$routeProvider', function ($routeProvider) {
         })
         .when('/h', {
             templateUrl: 'views/countries/h.html'
-        }) 
+        })
         .when('/i', {
             templateUrl: 'views/countries/i.html'
         })
@@ -52,7 +52,7 @@ app.config(['$routeProvider', function ($routeProvider) {
         })
         .when('/n', {
             templateUrl: 'views/countries/n.html'
-        }) 
+        })
         .when('/o', {
             templateUrl: 'views/countries/o.html'
         })
@@ -79,6 +79,11 @@ app.config(['$routeProvider', function ($routeProvider) {
         })
         .when('/w', {
             templateUrl: 'views/countries/w.html'
+        })
+        .when('/y', {
+            templateUrl: 'views/countries/y.html'
+        }).when('/z', {
+            templateUrl: 'views/countries/z.html'
         })
         .otherwise({
             redirectTo: '/'
