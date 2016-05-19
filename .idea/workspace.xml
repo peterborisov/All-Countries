@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c717f54-97d2-46d6-9b5a-de9fcab3bb31" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries/q.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries/r.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries/s.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
     </list>
@@ -26,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="453">
-              <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+              <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="r.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/countries/r.html">
+      <file leaf-file-name="s.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/countries/s.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="495">
+              <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
               </folding>
@@ -64,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/js/services/notifyService.js" />
         <option value="$PROJECT_DIR$/app/libs/angular-1.3.15/angular-scenario.js" />
         <option value="$PROJECT_DIR$/app/js/controllers/userController.js" />
         <option value="$PROJECT_DIR$/app/js/services/issuesService.js" />
@@ -115,6 +113,7 @@
         <option value="$PROJECT_DIR$/app/views/countries/q.html" />
         <option value="$PROJECT_DIR$/app/views/countries/r.html" />
         <option value="$PROJECT_DIR$/app/js/app.js" />
+        <option value="$PROJECT_DIR$/app/views/countries/s.html" />
       </list>
     </option>
   </component>
@@ -392,12 +391,12 @@
       <workItem from="1463160630815" duration="12164000" />
       <workItem from="1463380775652" duration="316000" />
       <workItem from="1463467014341" duration="717000" />
-      <workItem from="1463468106517" duration="26211000" />
+      <workItem from="1463468106517" duration="26996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173662000" />
+    <option name="totallyTimeSpent" value="174447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="1" />
@@ -440,7 +439,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/issue/Add-new-issue.html" />
     <entry file="file://$PROJECT_DIR$/app/views/project/Add-new-project.html" />
     <entry file="file://$PROJECT_DIR$/app/views/user/currentUser.html" />
     <entry file="file://$PROJECT_DIR$/app/js/services/usersService.js" />
@@ -765,16 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries/a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/countries/r.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -785,11 +773,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries/a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
-          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries/s.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
