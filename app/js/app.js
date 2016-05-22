@@ -128,6 +128,9 @@ app.config(['$routeProvider', function ($routeProvider) {
         // 'B' countries
         .when('/bahamas', {
             templateUrl: 'views/countries-info/bahamas.html'
+        }) 
+        .when('/bahrain', {
+            templateUrl: 'views/countries-info/bahrain.html'
         })
 
     
