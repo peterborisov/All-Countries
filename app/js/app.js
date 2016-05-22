@@ -102,6 +102,9 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/andorra', {
             templateUrl: 'views/countries-info/andorra.html'
         })
+        .when('/angola', {
+            templateUrl: 'views/countries-info/angola.html'
+        })
         
         
         .otherwise({
