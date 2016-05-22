@@ -122,6 +122,12 @@ app.config(['$routeProvider', function ($routeProvider) {
         })
         .when('/azerbaijan', {
             templateUrl: 'views/countries-info/azerbaijan.html'
+        }) 
+        
+        
+        // 'B' countries
+        .when('/bahamas', {
+            templateUrl: 'views/countries-info/bahamas.html'
         })
 
     
