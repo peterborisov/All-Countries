@@ -1,0 +1,87 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Australia<img src="img/australia-flag.gif" alt="" style="margin-left: 30px"
+                                         onclick="view('img/australia-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/QCgKd7oghLI></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        22,507,617
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        2,967,893 sq mi<br/>(7,686,850 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Australian dollar
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Canberra<br/> 399,000
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                       <span> Large cities: <br/>
+                         Sydney 4.543 million<br/>
+                 Melbourne 3.961 million<br/>
+                 Brisbane 2.039 million <br/>
+                 Perth 1.649 million<br/>
+                Adelaide 1.198 million<br/>
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <img src="img/australia-map.gif" class="img-thumbnail" onclick="view('img/australia-map.gif')"/>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/a">Back to A</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
