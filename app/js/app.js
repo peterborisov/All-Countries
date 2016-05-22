@@ -99,6 +99,9 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/algeria', {
             templateUrl: 'views/countries-info/algeria.html'
         })
+        .when('/andorra', {
+            templateUrl: 'views/countries-info/andorra.html'
+        })
         
         
         .otherwise({
