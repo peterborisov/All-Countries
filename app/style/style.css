@@ -4,6 +4,9 @@
   padding-right: 100px; }
 
 body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
   vertical-align: top;
   background: #000;
   font-weight: 400;
@@ -11,7 +14,6 @@ body {
   color: #aa3e03;
   overflow-y: scroll;
   overflow-x: hidden;
-  height: 100%;
   font-family: 'Electrolize', sans-serif; }
   body aside {
     box-sizing: border-box;
@@ -19,9 +21,8 @@ body {
     width: 270px;
     vertical-align: top; }
   body .coverImg {
-    height: auto;
     width: 100%;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -48,7 +49,7 @@ body {
   body #wrapper {
     text-align: center;
     vertical-align: top;
-    height: 640px;
+    height: 100%;
     width: 70%;
     margin: 0px auto;
     background-color: rgba(0, 0, 0, 0.8);
@@ -70,7 +71,7 @@ body {
         height: 50px; }
     body #wrapper img {
       width: 300px;
-      height: 206px;
+      height: 210px;
       margin-bottom: 20px; }
     body #wrapper img:hover {
       cursor: move; }
@@ -716,7 +717,7 @@ p.codrops-demos a.current-demo:hover {
 
 .popup-content {
   background: #444;
-  padding: 20px;
+  padding: 10px;
   box-sizing: border-box;
   border-radius: 10px 0 10px 0; }
 

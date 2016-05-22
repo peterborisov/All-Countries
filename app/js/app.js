@@ -88,10 +88,12 @@ app.config(['$routeProvider', function ($routeProvider) {
         }).when('/z', {
             templateUrl: 'views/countries/z.html'
         })
-        
-        
+
         .when('/afghanistan', {
             templateUrl: 'views/countries-info/afghanistan.html'
+        })
+        .when('/albania', {
+            templateUrl: 'views/countries-info/albania.html'
         })
         
         
