@@ -147,8 +147,11 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/belize', {
             templateUrl: 'views/countries-info/belize.html'
         })
- .when('/benin', {
+        .when('/benin', {
             templateUrl: 'views/countries-info/benin.html'
+        })
+        .when('/bhutan', {
+            templateUrl: 'views/countries-info/bhutan.html'
         })
 
 
