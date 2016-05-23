@@ -152,12 +152,15 @@ app.config(['$routeProvider', function ($routeProvider) {
         })
         .when('/bhutan', {
             templateUrl: 'views/countries-info/bhutan.html'
-        })  
+        })
         .when('/bolivia', {
             templateUrl: 'views/countries-info/bolivia.html'
         })
+        .when('/bosnia', {
+            templateUrl: 'views/countries-info/bosnia.html'
+        })
 
-    
+
         .otherwise({
             redirectTo: '/'
         });
