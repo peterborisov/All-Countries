@@ -1,0 +1,87 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Belgium<img src="img/belgium-flag.gif" alt="" style="margin-left: 30px"
+                                         onclick="view('img/belgium-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/Dzs4cKxziP4></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        10,449,361
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        11,787 sq mi <br/>(30,528 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Euro (formerly Belgian franc)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Brussels <br/>1.949 million
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                         <span> Large cities: <br/>
+                     Antwerp 959,000 <br/>
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <img src="img/belgium-map.gif" class="img-thumbnail" onclick="view('img/belgium-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>Located in western Europe, Belgium has about 40 mi of seacoast on the North Sea, at the Strait of Dover,
+            and is approximately the size of Maryland. The Meuse and the Schelde,
+            Belgium's principal rivers, are important commercial arteries.</p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/b">Back to B</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
