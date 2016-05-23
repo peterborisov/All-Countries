@@ -122,13 +122,13 @@ app.config(['$routeProvider', function ($routeProvider) {
         })
         .when('/azerbaijan', {
             templateUrl: 'views/countries-info/azerbaijan.html'
-        }) 
-        
-        
+        })
+
+
         // 'B' countries
         .when('/bahamas', {
             templateUrl: 'views/countries-info/bahamas.html'
-        }) 
+        })
         .when('/bahrain', {
             templateUrl: 'views/countries-info/bahrain.html'
         })
@@ -138,12 +138,16 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/barbados', {
             templateUrl: 'views/countries-info/barbados.html'
         })
-         .when('/belarus', {
+        .when('/belarus', {
             templateUrl: 'views/countries-info/belarus.html'
         })
-         .when('/belgium', {
+        .when('/belgium', {
             templateUrl: 'views/countries-info/belgium.html'
         })
+        .when('/belize', {
+            templateUrl: 'views/countries-info/belize.html'
+        })
+
 
         .otherwise({
             redirectTo: '/'
