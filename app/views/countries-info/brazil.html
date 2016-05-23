@@ -1,0 +1,95 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Brazil<img src="img/brazil-flag.gif" alt="" style="margin-left: 30px"
+                                        onclick="view('img/brazil-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/a2SjM1pi0Xw></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        205,716,890
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        3,286,470 sq mi <br/> (8,511,965 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Real
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Brasília <br/> 3,789,000
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                         <span> Large cities: <br/>
+                  São Paulo, 19,900,000<br/>
+               Rio de Janeiro, 11,836,000<br/>
+                  Salvador, 2,590,400<br/>
+                   Belo Horizonte, 5,736,000<br/>
+               Recife, 1,485,500 <br/>
+               Porto Alegre, 4,034,000
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<img src="img/brazil-map.gif" class="img-thumbnail" onclick="view('img/brazil-map.gif')"/>
+<div id="geography" style="color: white">
+    <p>Brazil covers nearly half of South America and is the continent's largest nation.
+        It extends 2,965 mi (4,772 km) north-south, 2,691 mi (4,331 km) east-west, and borders every nation on the
+        continent except Chile and Ecuador.
+        Brazil may be divided into the Brazilian Highlands, or plateau, in the south and the Amazon River Basin in the
+        north.
+        Over a third of Brazil is drained by the Amazon and its more than 200 tributaries.
+    </p>
+</div>
+<div class="divButton">
+    <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+    <button id="right"><a href="#/b">Back to B</a></button>
+</div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
