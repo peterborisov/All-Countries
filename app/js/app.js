@@ -192,8 +192,10 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/cape-verde', {
             templateUrl: 'views/countries-info/cape-verde.html'
         })
-
-
+        .when('/centralAfricanRepublic', {
+            templateUrl: 'views/countries-info/centralAfricanRepublic.html'
+        })
+        
         .otherwise({
             redirectTo: '/'
         });
