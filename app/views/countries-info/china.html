@@ -1,0 +1,95 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">China<img src="img/china-flag.gif" alt="" style="margin-left: 30px"
+                                       onclick="view('img/china-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/QrFj_h5TnvU></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        1,355,692,576
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        3,705,407 sq mi <br/> (9,596,960 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Yuan/Renminbi
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Beijing <br/> 15.594 million
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+  <span> Large cities: <br/>
+                     Shanghai 20.208 million<br/>
+                     Guangzhou 10.849 million<br/>
+                     Shenzhen 10.63 million<br/>
+                     Chongqing 9.977 million<br/>
+                     Wuhan 9.158 million <br/>
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/china-map.gif" class="img-thumbnail" onclick="view('img/china-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            The greater part of the country is mountainous. Its principal ranges are the Tien Shan,the Kunlun chain, and the Trans-Himalaya.
+            In the southwest is Tibet, which China annexed in 1950.
+            The Gobi Desert lies to the north.
+            China proper consists of three great river systems: the Yellow River (Huang He), 2,109 mi (5,464 km) long;
+            the Yangtze River (Chang Jiang), the third-longest river in the world at 2,432 mi (6,300 km);
+            and the Pearl River (Zhu Jiang), 848 mi (2,197 km) long.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/c">Back to C</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
