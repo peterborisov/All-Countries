@@ -1,0 +1,93 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Croatia<img src="img/croatia-flag.gif" alt="" style="margin-left: 30px"
+                                         onclick="view('img/croatia-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/aNmDWKfXy-s></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        4,470,534
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        21,831 sq mi <br/>(56,542 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Kuna
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Zagreb <br/> 686,000
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities: <br/>
+                        Split, 173,600<br/>
+                        Rijeka, 142,500<br/>
+                       Osijek, 89,600<br/>
+                            </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/croatia-map.gif" class="img-thumbnail" onclick="view('img/croatia-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Croatia is a former Yugoslav republic on the Adriatic Sea. It is about the size of West Virginia.
+            Part of Croatia is a barren, rocky region lying in the Dinaric Alps.
+            The Zagorje region north of the capital, Zagreb, is a land of rolling hills, and the fertile
+            agricultural region of the Pannonian Plain is bordered by the Drava, Danube, and Sava Rivers in the
+            east.
+            Over one-third of Croatia is forested.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/c">Back to C</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
