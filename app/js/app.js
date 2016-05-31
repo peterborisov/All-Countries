@@ -216,8 +216,11 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/congo-democratic', {
             templateUrl: 'views/countries-info/congo-democratic.html'
         })
-  .when('/costarica', {
+        .when('/costarica', {
             templateUrl: 'views/countries-info/costarica.html'
+        })
+        .when('/cote', {
+            templateUrl: 'views/countries-info/cote.html'
         })
 
 

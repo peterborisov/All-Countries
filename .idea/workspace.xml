@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c717f54-97d2-46d6-9b5a-de9fcab3bb31" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/costarica-flag.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/costarica-map.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries-info/costarica.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/cote-flag.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/cote-map.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries-info/cote.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/costarica.html" afterPath="$PROJECT_DIR$/app/views/countries-info/costarica.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/c.html" afterPath="$PROJECT_DIR$/app/views/countries/c.html" />
     </list>
     <ignored path="Issue-Tracking-System-AngularJS-Practical-Project.iws" />
@@ -31,8 +32,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="219" column="56" selection-start-line="219" selection-start-column="56" selection-end-line="219" selection-end-column="56" />
+            <state relative-caret-position="419">
+              <caret line="222" column="51" selection-start-line="222" selection-start-column="51" selection-end-line="222" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -41,18 +42,44 @@
       <file leaf-file-name="c.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/countries/c.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="28" column="36" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="36" />
+            <state relative-caret-position="291">
+              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="costarica.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="costarica.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/countries-info/costarica.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+            <state relative-caret-position="306">
+              <caret line="60" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="afghanistan.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/countries-info/afghanistan.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="67" column="45" selection-start-line="63" selection-start-column="23" selection-end-line="67" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cote.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/countries-info/cote.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
@@ -80,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/views/countries/z.html" />
         <option value="$PROJECT_DIR$/app/style/style.css" />
         <option value="$PROJECT_DIR$/app/views/home.html" />
         <option value="$PROJECT_DIR$/app/style/style.scss" />
@@ -128,9 +154,10 @@
         <option value="$PROJECT_DIR$/app/views/countries-info/comoros.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/congo.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/congo-democratic.html" />
+        <option value="$PROJECT_DIR$/app/views/countries-info/costarica.html" />
         <option value="$PROJECT_DIR$/app/views/countries/c.html" />
         <option value="$PROJECT_DIR$/app/js/app.js" />
-        <option value="$PROJECT_DIR$/app/views/countries-info/costarica.html" />
+        <option value="$PROJECT_DIR$/app/views/countries-info/cote.html" />
       </list>
     </option>
   </component>
@@ -376,12 +403,12 @@
       <workItem from="1463982772893" duration="9430000" />
       <workItem from="1464245375984" duration="7509000" />
       <workItem from="1464264365836" duration="15000" />
-      <workItem from="1464271591075" duration="13228000" />
+      <workItem from="1464271591075" duration="13780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="251637000" />
+    <option name="totallyTimeSpent" value="252189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -424,11 +451,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/img/bahrain-map.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/countries-info/bahrain.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -795,14 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/afghanistan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="67" column="45" selection-start-line="63" selection-start-column="23" selection-end-line="67" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/countries-info/congo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
@@ -814,22 +828,6 @@
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries/c.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="219" column="56" selection-start-line="219" selection-start-column="56" selection-end-line="219" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -847,10 +845,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="222" column="51" selection-start-line="222" selection-start-column="51" selection-end-line="222" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries/c.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/countries-info/costarica.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="60" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/afghanistan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="67" column="45" selection-start-line="63" selection-start-column="23" selection-end-line="67" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/cote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
           <folding>
             <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
