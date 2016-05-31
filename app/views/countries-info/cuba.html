@@ -1,0 +1,94 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Cuba<img src="img/cuba-flag.gif" alt="" style="margin-left: 30px"
+                                         onclick="view('img/cuba-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/TmE-_XbuyTM></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        11,047,251
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        42,803 sq mi<br/>(110,860 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Cuban Peso
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Havana <br/>  2.116 million
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities: <br/>
+                      Santiago de Cuba, 554,400<br/>
+                        Camagüey, 354,400<br/>
+                       Holguin, 319,300<br/>
+                    Guantánamo, 274,300<br/>
+                      Santa Clara, 251,800<br/>
+                            </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/cuba-map.gif" class="img-thumbnail" onclick="view('img/cuba-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            The largest island of the West Indies group (equal in area to Pennsylvania), Cuba is also the westernmost—just west of Hispaniola
+            (Haiti and the Dominican Republic), and 90 mi (145 km) south of Key West, Fla.,
+            at the entrance to the Gulf of Mexico. The island is mountainous in the southeast and south-central area (Sierra Maestra).
+            It is flat or rolling elsewhere.
+            Cuba also includes numerous smaller islands, islets, and cays.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/c">Back to C</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
