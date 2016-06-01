@@ -1,0 +1,84 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Dominica<img src="img/dominica-flag.gif" alt="" style="margin-left: 30px"
+                                          onclick="view('img/dominica-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/zF6zmp4FRBk></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        73,449
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        290 sq mi<br/> (751 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        East Caribbean dollar
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Roseau <br/>14,000
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/dominica-map.gif" class="img-thumbnail" onclick="view('img/dominica-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Dominica (pronounced Dom-in-EEK-a)
+            is a mountainous island of volcanic origin of the Lesser Antilles in the Caribbean, south of Guadeloupe and north of Martinique.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/d">Back to D</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
