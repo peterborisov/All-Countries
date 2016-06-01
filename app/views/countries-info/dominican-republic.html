@@ -1,0 +1,88 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Dominican Republic<img src="img/domrep-flag.gif" alt="" style="margin-left: 30px"
+                                          onclick="view('img/domrep-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/AC5fmSRFmkg></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        10,349,741
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        18,815 sq mi<br/>  (48,730 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Dominican Peso
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Santo Domingo <br/> 2.191 million
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities: <br/>
+                         Santiago de los Caballeros, 501,800<br/>
+                      </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/domrep-map.gif" class="img-thumbnail" onclick="view('img/domrep-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            The Dominican Republic in the West Indies occupies the eastern two-thirds of the island of Hispaniola,
+            which it shares with Haiti. Its area equals that of Vermont and New Hampshire combined.
+            Duarte Peak, at 10,417 ft (3,175 m), is the highest point in the West Indies.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/d">Back to D</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>

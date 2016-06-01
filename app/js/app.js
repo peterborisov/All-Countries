@@ -244,8 +244,11 @@ app.config(['$routeProvider', function ($routeProvider) {
         })
           .when('/dominica', {
             templateUrl: 'views/countries-info/dominica.html'
+        }) 
+        .when('/dominican-republic', {
+            templateUrl: 'views/countries-info/dominican-republic.html'
         })
-        
+   
         .otherwise({
             redirectTo: '/'
         });
