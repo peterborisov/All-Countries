@@ -239,16 +239,21 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/denmark', {
             templateUrl: 'views/countries-info/denmark.html'
         })
-          .when('/djibouti', {
+        .when('/djibouti', {
             templateUrl: 'views/countries-info/djibouti.html'
         })
-          .when('/dominica', {
+        .when('/dominica', {
             templateUrl: 'views/countries-info/dominica.html'
-        }) 
+        })
         .when('/dominican-republic', {
             templateUrl: 'views/countries-info/dominican-republic.html'
         })
-   
+            
+        //'E' countries
+        .when('/ecuador', {
+            templateUrl: 'views/countries-info/ecuador.html'
+        })
+
         .otherwise({
             redirectTo: '/'
         });
