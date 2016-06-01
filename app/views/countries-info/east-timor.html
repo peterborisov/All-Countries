@@ -1,0 +1,85 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">East Timor<img src="img/east-timor-flag.gif" alt="" style="margin-left: 30px"
+                                         onclick="view('img/east-timor-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/X9r_BJY6Vuo></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        1,154,625
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        5,641 sq mi  <br/>(14,609 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        U.S. dollar
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Dili  <br/>50,800
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/east-timor-map.gif" class="img-thumbnail" onclick="view('img/east-timor-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            East Timor is located in the eastern part of Timor, an island in the Indonesian archipelago that lies between the
+            South China Sea and the Indian Ocean. East Timor includes the enclave of Oecussi, which is located within West Timor (Indonesia).
+            After Indonesia, East Timor's closest neighbor is Australia, 400 mi to the south. It is semiarid and mountainous.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/e">Back to E</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
