@@ -248,12 +248,19 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/dominican-republic', {
             templateUrl: 'views/countries-info/dominican-republic.html'
         })
-            
+
         //'E' countries
+        .when('/ecuador', {
+            templateUrl: 'views/countries-info/ecuador.html'
+        })
         .when('/east-timor', {
             templateUrl: 'views/countries-info/east-timor.html'
         })
-        
+        .when('/egypt', {
+            templateUrl: 'views/countries-info/egypt.html'
+        })
+
+
         .otherwise({
             redirectTo: '/'
         });

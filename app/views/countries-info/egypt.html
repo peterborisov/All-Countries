@@ -1,0 +1,89 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Egypt<img src="img/egypt-flag.gif" alt="" style="margin-left: 30px"
+                                       onclick="view('img/egypt-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/AUcBwLyjLAc></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        86,895,099
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        386,662 sq mi <br/>(1,001,450 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Egyptian pound
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Cairo <br/>11.169 million
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities: <br/>
+                       Alexandria, 4.494 million <br/>
+                            </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/egypt-map.gif" class="img-thumbnail" onclick="view('img/egypt-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Egypt, at the northeast corner of Africa on the Mediterranean Sea,
+            is bordered on the west by Libya, on the south by the Sudan, and on the east by the Red Sea and Israel.
+            It is nearly one and one-half times the size of Texas. Egypt is divided into two unequal,
+            extremely arid regions by the landscape's dominant feature, the northward-flowing Nile River.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/e">Back to E</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
