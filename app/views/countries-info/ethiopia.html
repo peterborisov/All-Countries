@@ -1,0 +1,87 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Ethiopia<img src="img/ethiopia-flag.gif" alt="" style="margin-left: 30px"
+                                       onclick="view('img/ethiopia-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/LcGk_gc4n1Y></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        96,633,458
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        435,186 sq mi <br/>(1,127,127 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Birr
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Addis Ababa <br/>2.979
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/ethiopia-map.gif" class="img-thumbnail" onclick="view('img/ethiopia-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Ethiopia is in east-central Africa, bordered on the west by the Sudan, the east by Somalia and Djibouti,
+            the south by Kenya, and the northeast by Eritrea. It has several high mountains, the highest of which is Ras
+            Dashan at 15,158 ft (4,620 m). The Blue Nile, or Abbai, rises in the northwest and flows in a great semicircle
+            before entering the Sudan.
+            Its chief reservoir, Lake Tana, lies in the northwest.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/e">Back to E</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
