@@ -1,0 +1,86 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Equatorial Guinea<img src="img/eqatorialguinea-flag.gif" alt="" style="margin-left: 30px"
+                                       onclick="view('img/eqatorialguinea-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/Sh2QVTPK2WA></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        722,254
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        10,830 sq mi <br/>(28,050 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        CFA Franc
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Malabo <br/>137,000
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/equatorialguinea-map.gif" class="img-thumbnail" onclick="view('img/equatorialguinea-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Equatorial Guinea, formerly Spanish Guinea, consists of Río Muni (10,045 sq mi; 26,117 sq km), on the western coast of Africa,
+            and several islands in the Gulf of Guinea, the largest of which is Bioko (formerly Fernando Po)
+            (785 sq mi; 2,033 sq km). The other islands are Annobón, Corisco, Elobey Grande, and Elobey Chico.
+            The total area is twice that of Connecticut.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/e">Back to E</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
