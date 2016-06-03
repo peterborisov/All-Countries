@@ -264,9 +264,12 @@ app.config(['$routeProvider', function ($routeProvider) {
         })
         .when('/england', {
             templateUrl: 'views/countries-info/england.html'
-        }) 
+        })
         .when('/equatorial-guinea', {
             templateUrl: 'views/countries-info/equatorial-guinea.html'
+        })
+        .when('/eritrea', {
+            templateUrl: 'views/countries-info/eritrea.html'
         })
 
 
