@@ -1,0 +1,87 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Estonia<img src="img/estonia-flag.gif" alt="" style="margin-left: 30px"
+                                       onclick="view('img/estonia-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/Vj3w4Z8Gscc></iframe>
+    </div>
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        1,257,921
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        16,684 sq mi  <br/>(43,211 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Kroon
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Tallinn <br/> 400,000
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities: <br/>
+                       Tartu, 100,100<br/>
+                            </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/estonia-map.gif" class="img-thumbnail" onclick="view('img/estonia-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Estonia is mainly a lowland country that is bordered by the Baltic Sea, Latvia, and Russia.
+            It has numerous lakes and forests and many rivers,
+            most draining northward into the Gulf of Finland or eastward into Lake Peipus, its largest lake.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/e">Back to E</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
