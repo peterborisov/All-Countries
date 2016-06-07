@@ -1,0 +1,92 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Finland<img src="img/finland-flag.gif" alt="" style="margin-left: 30px"
+                                      onclick="view('img/finland-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/eY9emTkekqY></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        5,268,799
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        130,558 sq mi <br/>(338,145 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Euro (formerly markka)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Helsinki  <br/>1.17 million
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities: <br/>
+                             Espoo, 229,500 <br/>
+                            Tampere, 201,200<br/>
+                            Vantaa, 189,200 <br/>
+                            Turku, 178,100<br/>
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/finland-map.gif" class="img-thumbnail" onclick="view('img/finland-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Finland is three times the size of Ohio. It is heavily forested and contains thousands of lakes,
+            numerous rivers, and extensive areas of marshland. Except for a small highland region in the extreme northwest,
+            the country is a lowland less than 600 ft (180 m) above sea level. Off the southwest coast are the
+            Swedish-populated Åland Islands (581 sq mi; 1,505 sq km), which have had an autonomous status since 1921.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/f">Back to F</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
