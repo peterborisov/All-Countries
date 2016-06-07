@@ -1,0 +1,93 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">France<img src="img/france-flag.gif" alt="" style="margin-left: 30px"
+                                         onclick="view('img/france-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/AQ6GmpMu5L8></iframe>
+    </div>
+
+
+    <div id="content" class="thumbnail">
+
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        66,259,012
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        211,209 sq mi  <br/>(547,030 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Euro (formerly French franc)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Paris  <br/>10.764 million
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities: <br/>
+                            Lyon 1.597 million <br/>
+                            Marseille-Aix-en-Provence 1.595 million<br/>
+                          Lille 1.025 million<br/>
+                            Nice-Cannes 961,000<br/>
+                           Toulouse 926,000<br/>
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/france-map.gif" class="img-thumbnail" onclick="view('img/france-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            France is about 80% the size of Texas. In the Alps near the Italian and Swiss borders is western Europe's highest
+            point—Mont Blanc (15,781 ft; 4,810 m). The forest-covered Vosges Mountains are in the northeast, and the Pyrénées
+            are along the Spanish border.
+            Except for extreme northern France, the country may be described as four river basins and a plateau.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/f">Back to F</a></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
