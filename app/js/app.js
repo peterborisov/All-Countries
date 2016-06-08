@@ -320,6 +320,9 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/guinea', {
             templateUrl: 'views/countries-info/guinea.html'
         })
+        .when('/guinea-bissau', {
+            templateUrl: 'views/countries-info/guinea-bissau.html'
+        })
 
 
         .otherwise({
