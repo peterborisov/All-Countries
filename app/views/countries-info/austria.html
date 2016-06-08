@@ -1,19 +1,13 @@
 <div ng-include="'views/navbar-header.html'"></div>
 <div class="coverImg">
     <img src="img/world-map.png">
-
 </div>
 <div id="wrapper" style="width: 100%">
-    <h1 style="color: white">Austria<img src="img/austria-flag.gif" alt="" style="margin-left: 30px"
-                                           onclick="view('img/austria-flag.gif')"></h1>
+    <h1 style="color: white">Austria<img src="img/austria-flag.gif" alt="" style="margin-left: 30px" onclick="view('img/austria-flag.gif')"></h1>
     <div style="height: 210px;float: right">
-        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
-                src=https://www.youtube.com/v/scvZJhbDDAg></iframe>
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%" src=https://www.youtube.com/v/scvZJhbDDAg></iframe>
     </div>
-
-
     <div id="content" class="thumbnail">
-
         <div class="moving-zone">
             <div class="popup">
                 <div class="popup-content">
@@ -54,7 +48,6 @@
                 </div>
             </div>
         </div>
-
         <div id="cities" class="moving-zone">
             <div class="popup">
                 <div class="popup-content">
@@ -70,22 +63,17 @@
             </div>
         </div>
     </div>
-
-
     <img src="img/austria-map.gif" class="img-thumbnail" onclick="view('img/austria-map.gif')"/>
-
     <div id="geography" style="color: white">
         <p>Slightly smaller than Maine, Austria includes much of the mountainous territory of the eastern Alps (about 75% of the area).
             The country contains many snowfields, glaciers, and snowcapped peaks, the highest being the Grossglockner (12,530 ft; 3,819 m).
             The Danube is the principal river. Forests and woodlands cover about 40% of the land.</p>
     </div>
-
     <div class="divButton">
         <button id="left"><a href="#/a-z">Back to A-Z</a></button>
         <button id="right"><a href="#/a">Back to A</a></button>
     </div>
 </div>
-
 <script type="text/javascript">
     function view(imgSrc) {
         a = window.open(imgSrc, 'a', 'width=auto,height=auto');

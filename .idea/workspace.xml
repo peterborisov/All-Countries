@@ -2,12 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c717f54-97d2-46d6-9b5a-de9fcab3bb31" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/france-flag.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/france-map.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries-info/france.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/f.html" afterPath="$PROJECT_DIR$/app/views/countries/f.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/a-z.html" afterPath="$PROJECT_DIR$/app/views/a-z.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/afghanistan.html" afterPath="$PROJECT_DIR$/app/views/countries-info/afghanistan.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/albania.html" afterPath="$PROJECT_DIR$/app/views/countries-info/albania.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/algeria.html" afterPath="$PROJECT_DIR$/app/views/countries-info/algeria.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/andorra.html" afterPath="$PROJECT_DIR$/app/views/countries-info/andorra.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/angola.html" afterPath="$PROJECT_DIR$/app/views/countries-info/angola.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/antigua_and_barbuda.html" afterPath="$PROJECT_DIR$/app/views/countries-info/antigua_and_barbuda.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/argentina.html" afterPath="$PROJECT_DIR$/app/views/countries-info/argentina.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/armenia.html" afterPath="$PROJECT_DIR$/app/views/countries-info/armenia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/australia.html" afterPath="$PROJECT_DIR$/app/views/countries-info/australia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/austria.html" afterPath="$PROJECT_DIR$/app/views/countries-info/austria.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/azerbaijan.html" afterPath="$PROJECT_DIR$/app/views/countries-info/azerbaijan.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/bahamas.html" afterPath="$PROJECT_DIR$/app/views/countries-info/bahamas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/bahrain.html" afterPath="$PROJECT_DIR$/app/views/countries-info/bahrain.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/bangladesh.html" afterPath="$PROJECT_DIR$/app/views/countries-info/bangladesh.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/barbados.html" afterPath="$PROJECT_DIR$/app/views/countries-info/barbados.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/belarus.html" afterPath="$PROJECT_DIR$/app/views/countries-info/belarus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/belgium.html" afterPath="$PROJECT_DIR$/app/views/countries-info/belgium.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/belize.html" afterPath="$PROJECT_DIR$/app/views/countries-info/belize.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/benin.html" afterPath="$PROJECT_DIR$/app/views/countries-info/benin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/bhutan.html" afterPath="$PROJECT_DIR$/app/views/countries-info/bhutan.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/bolivia.html" afterPath="$PROJECT_DIR$/app/views/countries-info/bolivia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/bosnia.html" afterPath="$PROJECT_DIR$/app/views/countries-info/bosnia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/botswana.html" afterPath="$PROJECT_DIR$/app/views/countries-info/botswana.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/brazil.html" afterPath="$PROJECT_DIR$/app/views/countries-info/brazil.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/brunei.html" afterPath="$PROJECT_DIR$/app/views/countries-info/brunei.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/bulgaria.html" afterPath="$PROJECT_DIR$/app/views/countries-info/bulgaria.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/burkina.html" afterPath="$PROJECT_DIR$/app/views/countries-info/burkina.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/burundi.html" afterPath="$PROJECT_DIR$/app/views/countries-info/burundi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/cambodia.html" afterPath="$PROJECT_DIR$/app/views/countries-info/cambodia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/cameroon.html" afterPath="$PROJECT_DIR$/app/views/countries-info/cameroon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/canada.html" afterPath="$PROJECT_DIR$/app/views/countries-info/canada.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/cape-verde.html" afterPath="$PROJECT_DIR$/app/views/countries-info/cape-verde.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/centralAfricanRepublic.html" afterPath="$PROJECT_DIR$/app/views/countries-info/centralAfricanRepublic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/chad.html" afterPath="$PROJECT_DIR$/app/views/countries-info/chad.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/chile.html" afterPath="$PROJECT_DIR$/app/views/countries-info/chile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/china.html" afterPath="$PROJECT_DIR$/app/views/countries-info/china.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/colombia.html" afterPath="$PROJECT_DIR$/app/views/countries-info/colombia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/comoros.html" afterPath="$PROJECT_DIR$/app/views/countries-info/comoros.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/congo-democratic.html" afterPath="$PROJECT_DIR$/app/views/countries-info/congo-democratic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/congo.html" afterPath="$PROJECT_DIR$/app/views/countries-info/congo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/costarica.html" afterPath="$PROJECT_DIR$/app/views/countries-info/costarica.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/cote.html" afterPath="$PROJECT_DIR$/app/views/countries-info/cote.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/croatia.html" afterPath="$PROJECT_DIR$/app/views/countries-info/croatia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/cuba.html" afterPath="$PROJECT_DIR$/app/views/countries-info/cuba.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/cyprus.html" afterPath="$PROJECT_DIR$/app/views/countries-info/cyprus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/czech.html" afterPath="$PROJECT_DIR$/app/views/countries-info/czech.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/denmark.html" afterPath="$PROJECT_DIR$/app/views/countries-info/denmark.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/djibouti.html" afterPath="$PROJECT_DIR$/app/views/countries-info/djibouti.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/dominica.html" afterPath="$PROJECT_DIR$/app/views/countries-info/dominica.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/dominican-republic.html" afterPath="$PROJECT_DIR$/app/views/countries-info/dominican-republic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/east-timor.html" afterPath="$PROJECT_DIR$/app/views/countries-info/east-timor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/ecuador.html" afterPath="$PROJECT_DIR$/app/views/countries-info/ecuador.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/egypt.html" afterPath="$PROJECT_DIR$/app/views/countries-info/egypt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/el-salvador.html" afterPath="$PROJECT_DIR$/app/views/countries-info/el-salvador.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/england.html" afterPath="$PROJECT_DIR$/app/views/countries-info/england.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/equatorial-guinea.html" afterPath="$PROJECT_DIR$/app/views/countries-info/equatorial-guinea.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/eritrea.html" afterPath="$PROJECT_DIR$/app/views/countries-info/eritrea.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/estonia.html" afterPath="$PROJECT_DIR$/app/views/countries-info/estonia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/ethiopia.html" afterPath="$PROJECT_DIR$/app/views/countries-info/ethiopia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/fiji.html" afterPath="$PROJECT_DIR$/app/views/countries-info/fiji.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/finland.html" afterPath="$PROJECT_DIR$/app/views/countries-info/finland.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries-info/france.html" afterPath="$PROJECT_DIR$/app/views/countries-info/france.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/a.html" afterPath="$PROJECT_DIR$/app/views/countries/a.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/b.html" afterPath="$PROJECT_DIR$/app/views/countries/b.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/c.html" afterPath="$PROJECT_DIR$/app/views/countries/c.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/d.html" afterPath="$PROJECT_DIR$/app/views/countries/d.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/g.html" afterPath="$PROJECT_DIR$/app/views/countries/g.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/h.html" afterPath="$PROJECT_DIR$/app/views/countries/h.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/i.html" afterPath="$PROJECT_DIR$/app/views/countries/i.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/j.html" afterPath="$PROJECT_DIR$/app/views/countries/j.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/k.html" afterPath="$PROJECT_DIR$/app/views/countries/k.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/l.html" afterPath="$PROJECT_DIR$/app/views/countries/l.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/m.html" afterPath="$PROJECT_DIR$/app/views/countries/m.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/n.html" afterPath="$PROJECT_DIR$/app/views/countries/n.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/o.html" afterPath="$PROJECT_DIR$/app/views/countries/o.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/p.html" afterPath="$PROJECT_DIR$/app/views/countries/p.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/q.html" afterPath="$PROJECT_DIR$/app/views/countries/q.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/r.html" afterPath="$PROJECT_DIR$/app/views/countries/r.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/s.html" afterPath="$PROJECT_DIR$/app/views/countries/s.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/t.html" afterPath="$PROJECT_DIR$/app/views/countries/t.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/u.html" afterPath="$PROJECT_DIR$/app/views/countries/u.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/v.html" afterPath="$PROJECT_DIR$/app/views/countries/v.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/w.html" afterPath="$PROJECT_DIR$/app/views/countries/w.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/y.html" afterPath="$PROJECT_DIR$/app/views/countries/y.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/z.html" afterPath="$PROJECT_DIR$/app/views/countries/z.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home.html" afterPath="$PROJECT_DIR$/app/views/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/navbar-header.html" afterPath="$PROJECT_DIR$/app/views/navbar-header.html" />
     </list>
     <ignored path="Issue-Tracking-System-AngularJS-Practical-Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,38 +112,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="288" column="53" selection-start-line="288" selection-start-column="53" selection-end-line="288" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="f.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/countries/f.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="france.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="france.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/countries-info/france.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="66" column="43" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
-              <folding>
-                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="376">
+              <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a-z.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/a-z.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="51" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar-header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/navbar-header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,15 +165,49 @@
       <file leaf-file-name="finland.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/countries-info/finland.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="77" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="376">
+              <caret line="79" column="6" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eritrea.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/countries-info/eritrea.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estonia.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/countries-info/estonia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ethiopia.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/countries-info/ethiopia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fiji.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/countries-info/fiji.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,8 +228,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/views/countries-info/benin.html" />
+        <option value="$PROJECT_DIR$/app/views/countries-info/belarus.html" />
+        <option value="$PROJECT_DIR$/app/views/countries-info/belgium.html" />
+        <option value="$PROJECT_DIR$/app/views/countries-info/belize.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/bhutan.html" />
+        <option value="$PROJECT_DIR$/app/views/countries-info/benin.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/bolivia.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/bosnia.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/botswana.html" />
@@ -105,9 +240,7 @@
         <option value="$PROJECT_DIR$/app/views/countries-info/brunei.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/bulgaria.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/burkina.html" />
-        <option value="$PROJECT_DIR$/app/views/countries/b.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/burundi.html" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/cambodia.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/cameroon.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/canada.html" />
@@ -125,28 +258,27 @@
         <option value="$PROJECT_DIR$/app/views/countries-info/croatia.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/cuba.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/cyprus.html" />
-        <option value="$PROJECT_DIR$/app/views/countries/c.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/czech.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/denmark.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/djibouti.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/dominica.html" />
-        <option value="$PROJECT_DIR$/app/views/countries/d.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/dominican-republic.html" />
-        <option value="$PROJECT_DIR$/app/views/countries-info/ecuador.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/east-timor.html" />
+        <option value="$PROJECT_DIR$/app/views/countries-info/ecuador.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/egypt.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/el-salvador.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/england.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/equatorial-guinea.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/eritrea.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/estonia.html" />
-        <option value="$PROJECT_DIR$/app/views/countries/e.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/ethiopia.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/fiji.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/finland.html" />
-        <option value="$PROJECT_DIR$/app/views/countries/f.html" />
-        <option value="$PROJECT_DIR$/app/js/app.js" />
         <option value="$PROJECT_DIR$/app/views/countries-info/france.html" />
+        <option value="$PROJECT_DIR$/app/views/a-z.html" />
+        <option value="$PROJECT_DIR$/app/views/home.html" />
+        <option value="$PROJECT_DIR$/app/views/navbar-header.html" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
@@ -257,24 +389,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="countries-info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="All Countries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="All-Countries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -397,12 +511,14 @@
       <workItem from="1464764354497" duration="3630000" />
       <workItem from="1464929581919" duration="3391000" />
       <workItem from="1465014027765" duration="608000" />
-      <workItem from="1465287182756" duration="1335000" />
+      <workItem from="1465287182756" duration="1415000" />
+      <workItem from="1465309563314" duration="19000" />
+      <workItem from="1465359399520" duration="1631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="263318000" />
+    <option name="totallyTimeSpent" value="265048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -412,19 +528,19 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -445,24 +561,395 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/belarus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="79" column="6" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/belgium.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/belize.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/bhutan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/benin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/bolivia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/bosnia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/botswana.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/brazil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/brunei.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/bulgaria.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/burkina.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="61" column="119" selection-start-line="61" selection-start-column="119" selection-end-line="61" selection-end-column="119" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/burundi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/cambodia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/countries-info/cameroon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="63" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="77" column="6" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/countries-info/canada.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        <state relative-caret-position="376">
+          <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/libs/angular-1.3.15/docs/index.html">
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/cape-verde.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3585">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="510">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/centralAfricanRepublic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/chad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/chile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/china.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/colombia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/comoros.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/congo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/congo-democratic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/costarica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/cote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/croatia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="79" column="6" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/cuba.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/cyprus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/czech.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="77" column="6" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/denmark.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/djibouti.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/dominica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/dominican-republic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/east-timor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/ecuador.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/egypt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/el-salvador.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="79" column="6" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/england.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="79" column="6" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/equatorial-guinea.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/eritrea.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/estonia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/ethiopia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/fiji.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/finland.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="79" column="6" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/france.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/a-z.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="51" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -470,373 +957,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/a-z.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/style/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="906" column="18" selection-start-line="906" selection-start-column="18" selection-end-line="906" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="37" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/armenia-flag.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/cape-verde.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/burkina-map.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/chad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="51" column="53" selection-start-line="51" selection-start-column="53" selection-end-line="51" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/albania.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="65" column="34" selection-start-line="62" selection-start-column="21" selection-end-line="65" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/china.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/centralAfricanRepublic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/chile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="75" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/colombia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="65" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/comoros-flag.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/congo-flag.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/comoros.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="60" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/congo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="48" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/congo-democratic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/cote.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/costarica.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="60" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/croatia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="67" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/cuba.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries/c.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/cyprus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="60" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/czech.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="65" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/denmark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="57" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/djibouti.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="51" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/dominica.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="51" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries/d.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/dominican-republic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="62" column="60" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/ecuador.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="62" column="50" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/east-timor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/afghanistan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="67" column="45" selection-start-line="63" selection-start-column="23" selection-end-line="67" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/el-salvador.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="64" column="41" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/england.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/eritrea.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/equatorial-guinea.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="442">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/estonia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/ethiopia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/egypt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries/e.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/fiji.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="62" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="288" column="53" selection-start-line="288" selection-start-column="53" selection-end-line="288" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries/f.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/finland.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="77" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/france.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="66" column="43" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

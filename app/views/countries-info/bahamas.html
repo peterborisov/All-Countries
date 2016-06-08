@@ -1,21 +1,13 @@
-
-
 <div ng-include="'views/navbar-header.html'"></div>
 <div class="coverImg">
     <img src="img/world-map.png">
-
 </div>
 <div id="wrapper" style="width: 100%">
-    <h1 style="color: white">Bahamas<img src="img/bahamas-flag.gif" alt="" style="margin-left: 30px"
-                                             onclick="view('img/bahamas-flag.gif')"></h1>
+    <h1 style="color: white">Bahamas<img src="img/bahamas-flag.gif" alt="" style="margin-left: 30px" onclick="view('img/bahamas-flag.gif')"></h1>
     <div style="height: 210px;float: right">
-        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
-                src=https://www.youtube.com/v/cyzD8MNnEIg></iframe>
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%" src=https://www.youtube.com/v/cyzD8MNnEIg></iframe>
     </div>
-
-
     <div id="content" class="thumbnail">
-
         <div class="moving-zone">
             <div class="popup">
                 <div class="popup-content">
@@ -31,7 +23,7 @@
                 <div class="popup-content">
                     <div class="popup-text">
                         Total area: <br/>
-                        5,382 sq mi  <br/>(13,940 sq km)
+                        5,382 sq mi <br/>(13,940 sq km)
                     </div>
                 </div>
             </div>
@@ -56,7 +48,6 @@
                 </div>
             </div>
         </div>
-
         <div id="cities" class="moving-zone">
             <div class="popup">
                 <div class="popup-content">
@@ -66,18 +57,19 @@
             </div>
         </div>
     </div>
-
-
     <img src="img/bahama-map.gif" class="img-thumbnail" onclick="view('img/bahama-map.gif')"/>
     <div id="geography" style="color: white">
-        <p>The Bahamas are an archipelago of about 700 islands and 2,400 uninhabited islets and cays lying 50 mi off the east coast of Florida. They extend for about 760 mi (1,223 km). Only about 30 of the islands are inhabited; the most important is New Providence (80 sq mi; 207 sq km), on which the capital, Nassau, is situated. Other islands include Grand Bahama, Abaco, Eleuthera, Andros, Cat Island, and San Salvador (or Watling's Island).</p>
+        <p>The Bahamas are an archipelago of about 700 islands and 2,400 uninhabited islets and cays lying 50 mi off the
+            east coast of Florida. They extend for about 760 mi (1,223 km). Only about 30 of the islands are inhabited;
+            the most important is New Providence (80 sq mi; 207 sq km), on which the capital, Nassau, is situated. Other
+            islands include Grand Bahama, Abaco, Eleuthera, Andros, Cat Island, and San Salvador (or Watling's
+            Island).</p>
     </div>
     <div class="divButton">
         <button id="left"><a href="#/a-z">Back to A-Z</a></button>
         <button id="right"><a href="#/b">Back to B</a></button>
     </div>
 </div>
-
 <script type="text/javascript">
     function view(imgSrc) {
         a = window.open(imgSrc, 'a', 'width=auto,height=auto');
