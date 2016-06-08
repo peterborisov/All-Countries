@@ -1,0 +1,84 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Great Britain<img src="img/gb-flag.gif" alt="" style="margin-left: 30px" onclick="view('img/gb-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%" src=https://www.youtube.com/v/LMt-CZ-3ibs></iframe>
+    </div>
+    <div id="content" class="thumbnail">
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        63,742,977
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        94,526 sq mi <br/> (244,820 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Pound sterling (£)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        London <br/> 13,614,409
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities: <br/>
+                             Birmingham, 2.272 million<br/>
+                            Manchester, 2.213 million<br/>
+                            West Yorkshire, 1.625 million<br/>
+                            Glasgow, 1.137 million<br/>
+                            Newcastle upon Tyne, 874,000<br/>
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/gb-map.gif" class="img-thumbnail" onclick="view('img/gb-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            The United Kingdom, consisting of Great Britain (England, Wales, and Scotland ) and Northern Ireland ,
+            is twice the size of New York State. England,
+            in the southeast part of the British Isles, is separated from Scotland on the north by the granite Cheviot Hills.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/g">Back to G</a></button>
+    </div>
+</div>
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
