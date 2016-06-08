@@ -323,8 +323,10 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/guinea-bissau', {
             templateUrl: 'views/countries-info/guinea-bissau.html'
         })
-
-
+        .when('/guyana', {
+            templateUrl: 'views/countries-info/guyana.html'
+        })
+        
         .otherwise({
             redirectTo: '/'
         });
