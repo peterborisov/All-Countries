@@ -292,17 +292,20 @@ app.config(['$routeProvider', function ($routeProvider) {
         //'G' countries
         .when('/gabon', {
             templateUrl: 'views/countries-info/gabon.html'
-        }) 
+        })
         .when('/gambia', {
             templateUrl: 'views/countries-info/gambia.html'
         })
         .when('/georgia', {
             templateUrl: 'views/countries-info/georgia.html'
-        }) 
+        })
         .when('/germany', {
             templateUrl: 'views/countries-info/germany.html'
         })
-    
+        .when('/ghana', {
+            templateUrl: 'views/countries-info/ghana.html'
+        })
+
         .otherwise({
             redirectTo: '/'
         });

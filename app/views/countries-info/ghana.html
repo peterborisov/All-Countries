@@ -1,0 +1,80 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Ghana<img src="img/ghana-flag.gif" alt="" style="margin-left: 30px" onclick="view('img/ghana-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%" src=https://www.youtube.com/v/aEERLlsE4CQ></iframe>
+    </div>
+    <div id="content" class="thumbnail">
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        25,758,108
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        92,456 sq mi<br/> (239,460 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Cedi
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Accra <br/>2.573 million
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities: <br/>
+                             Kumasi, 2.019 million
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/ghana-map.gif" class="img-thumbnail" onclick="view('img/ghana-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            A West African country bordering on the Gulf of Guinea, Ghana is bounded by Côte d'Ivoire to the west,
+            Burkina Faso to the north, Togo to the east, and the Atlantic Ocean to the south.
+            It compares in size to Oregon, and its largest river is the Volta.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/g">Back to G</a></button>
+    </div>
+</div>
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
