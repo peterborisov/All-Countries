@@ -1,0 +1,83 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Iran<img src="img/iran-flag.gif" alt="" style="margin-left: 30px" onclick="view('img/iran-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%" src=https://www.youtube.com/v/2Puhrx2JN2I></iframe>
+    </div>
+    <div id="content" class="thumbnail">
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        80,840,713
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        636,293 sq mi  <br/> (1,648,000 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Rial
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Tehran <br/>7.304 million
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities: <br/>
+                            Mashhad 2.713 million<br/>
+                            Esfahan 1.781 million<br/>
+                            Karaj 1.635 million<br/>
+                            Tabriz 1.509 million<br/>
+                            Shiraz 1.321 million<br/>
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/iran-map.gif" class="img-thumbnail" onclick="view('img/iran-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Iran, a Middle Eastern country south of the Caspian Sea and north of the Persian Gulf, is three times the size of Arizona.
+            It shares borders with Iraq, Turkey, Azerbaijan, Turkmenistan, Armenia, Afghanistan, and Pakistan.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/i">Back to I</a></button>
+    </div>
+</div>
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
