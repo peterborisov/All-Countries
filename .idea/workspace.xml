@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c717f54-97d2-46d6-9b5a-de9fcab3bb31" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/iraq-flag.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/iraq-map.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries-info/iraq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/ireland-flag.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/ireland-map.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries-info/ireland.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/i.html" afterPath="$PROJECT_DIR$/app/views/countries/i.html" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="354" column="51" selection-start-line="354" selection-start-column="51" selection-end-line="354" selection-end-column="51" />
+            <state relative-caret-position="436">
+              <caret line="357" column="54" selection-start-line="357" selection-start-column="54" selection-end-line="357" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -41,18 +41,18 @@
       <file leaf-file-name="i.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/countries/i.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="289">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iraq.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/countries-info/iraq.html">
+      <file leaf-file-name="ireland.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/countries-info/ireland.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
+            <state relative-caret-position="408">
+              <caret line="54" column="50" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -84,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/views/countries-info/costarica.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/cote.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/croatia.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/cuba.html" />
@@ -132,9 +131,10 @@
         <option value="$PROJECT_DIR$/app/views/countries-info/india.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/indonesia.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/iran.html" />
+        <option value="$PROJECT_DIR$/app/views/countries-info/iraq.html" />
         <option value="$PROJECT_DIR$/app/views/countries/i.html" />
         <option value="$PROJECT_DIR$/app/js/app.js" />
-        <option value="$PROJECT_DIR$/app/views/countries-info/iraq.html" />
+        <option value="$PROJECT_DIR$/app/views/countries-info/ireland.html" />
       </list>
     </option>
   </component>
@@ -406,12 +406,12 @@
       <workItem from="1465287182756" duration="1415000" />
       <workItem from="1465309563314" duration="19000" />
       <workItem from="1465359399520" duration="7535000" />
-      <workItem from="1465452983743" duration="2816000" />
+      <workItem from="1465452983743" duration="3144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273768000" />
+    <option name="totallyTimeSpent" value="274096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -454,13 +454,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/cote.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/countries-info/croatia.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -792,16 +785,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="354" column="51" selection-start-line="354" selection-start-column="51" selection-end-line="354" selection-end-column="51" />
+        <state relative-caret-position="436">
+          <caret line="357" column="54" selection-start-line="357" selection-start-column="54" selection-end-line="357" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/countries/i.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="289">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/iraq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
           <folding />
         </state>
       </provider>
@@ -814,10 +815,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/iraq.html">
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/ireland.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
+        <state relative-caret-position="408">
+          <caret line="54" column="50" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
           <folding />
         </state>
       </provider>

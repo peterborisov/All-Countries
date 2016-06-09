@@ -348,11 +348,14 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/indonesia', {
             templateUrl: 'views/countries-info/indonesia.html'
         })
-         .when('/iran', {
+        .when('/iran', {
             templateUrl: 'views/countries-info/iran.html'
         })
-          .when('/iraq', {
+        .when('/iraq', {
             templateUrl: 'views/countries-info/iraq.html'
+        })
+        .when('/ireland', {
+            templateUrl: 'views/countries-info/ireland.html'
         })
 
         .otherwise({
