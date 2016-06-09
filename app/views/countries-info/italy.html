@@ -1,0 +1,84 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Italy<img src="img/italy-flag.gif" alt="" style="margin-left: 30px" onclick="view('img/italy-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%" src=https://www.youtube.com/v/V2VcEkPaeF4></iframe>
+    </div>
+    <div id="content" class="thumbnail">
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        61,680,122
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        116,305 sq mi <br/> (301,230 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Euro (formerly lira)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Rome <br/>3.298 million
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities: <br/>
+                            Milan 2.909 million<br/>
+                            Naples 2.373 million<br/>
+                            Turin 1.613 million<br/>
+                            Palermo 915,000<br/>
+                            Bergamo 784,000<br/>
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/italy-map.gif" class="img-thumbnail" onclick="view('img/italy-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Italy, slightly larger than Arizona, is a long peninsula shaped like a boot,
+            surrounded on the west by the Tyrrhenian Sea and on the east by the Adriatic.
+            It is bounded by France, Switzerland, Austria, and Slovenia to the north.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/i">Back to I</a></button>
+    </div>
+</div>
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
