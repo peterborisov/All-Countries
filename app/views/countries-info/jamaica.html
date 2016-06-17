@@ -1,0 +1,79 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Jamaica<img src="img/jamaica-flag.gif" alt="" style="margin-left: 30px" onclick="view('img/jamaica-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%" src=https://www.youtube.com/v/125rLE4AywY></iframe>
+    </div>
+    <div id="content" class="thumbnail">
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        2,930,050
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        4,244 sq mi<br/> (10,991 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Jamaican dollar
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Kingston <br/> 571,000
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities:
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/jamaica-map.gif" class="img-thumbnail" onclick="view('img/jamaica-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Jamaica is an island in the West Indies, 90 mi (145 km) south of Cuba and 100 mi (161 km) west of Haiti.
+            It is a little smaller than Connecticut. The island is made up of coastal lowlands,
+            a limestone plateau, and the Blue Mountains, a group of volcanic hills, in the east.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/j">Back to J</a></button>
+    </div>
+</div>
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
