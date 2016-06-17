@@ -1,0 +1,85 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Japan<img src="img/japan-flag.gif" alt="" style="margin-left: 30px" onclick="view('img/japan-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%" src=https://www.youtube.com/v/cS-hFKC_RKI></iframe>
+    </div>
+    <div id="content" class="thumbnail">
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        127,103,388
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        145,913 sq mi <br/> (377,915 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Yen
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Tokyo <br/> 37.217 million
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities:<br/>
+                            Osaka-Kobe 11.494 million<br/>
+                            Nagoya 3.328 million<br/>
+                            Fukuoka-Kitakyushu 2.868 million<br/>
+                            Sapporo 2.742 million<br/>
+                            Sendai 2.428 million<br/>
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/japan-map.gif" class="img-thumbnail" onclick="view('img/japan-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            An archipelago in the Pacific, Japan is separated from the east coast of Asia by the Sea of Japan.
+            It is approximately the size of Montana. Japan's four main islands are Honshu, Hokkaido, Kyushu, and Shikoku.
+            The Ryukyu chain to the southwest was U.S.-occupied from 1945 to 1972,
+            when it reverted to Japanese control, and the Kurils to the northeast are Russian-occupied.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/j">Back to J</a></button>
+    </div>
+</div>
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>

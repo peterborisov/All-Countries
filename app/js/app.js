@@ -368,6 +368,9 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/jamaica', {
             templateUrl: 'views/countries-info/jamaica.html'
         })
+        .when('/japan', {
+            templateUrl: 'views/countries-info/japan.html'
+        })
         .otherwise({
             redirectTo: '/'
         });
