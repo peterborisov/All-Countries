@@ -381,10 +381,17 @@ app.config(['$routeProvider', function ($routeProvider) {
         })
         .when('/kenya', {
             templateUrl: 'views/countries-info/kenya.html'
-        }) 
+        })
         .when('/kiribati', {
             templateUrl: 'views/countries-info/kiribati.html'
         })
+        .when('/korea-north', {
+            templateUrl: 'views/countries-info/korea-north.html'
+        })
+        .when('/korea-south', {
+            templateUrl: 'views/countries-info/korea-south.html'
+        })
+
         .otherwise({
             redirectTo: '/'
         });
