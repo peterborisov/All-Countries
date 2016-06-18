@@ -401,6 +401,10 @@ app.config(['$routeProvider', function ($routeProvider) {
             templateUrl: 'views/countries-info/kyrgyzstan.html'
         })
 
+        //'L' countries
+        .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
         .otherwise({
             redirectTo: '/'
         });
