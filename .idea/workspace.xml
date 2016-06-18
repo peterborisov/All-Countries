@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c717f54-97d2-46d6-9b5a-de9fcab3bb31" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/laos-flag.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/laos-map.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries-info/laos.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/latvia-flag.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/latvia-map.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/countries-info/latvia.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/countries/l.html" afterPath="$PROJECT_DIR$/app/views/countries/l.html" />
@@ -31,28 +31,18 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="405" column="51" selection-start-line="405" selection-start-column="51" selection-end-line="405" selection-end-column="51" />
+            <state relative-caret-position="181">
+              <caret line="408" column="53" selection-start-line="408" selection-start-column="53" selection-end-line="408" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="l.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/countries/l.html">
+      <file leaf-file-name="latvia.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/countries-info/latvia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="laos.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/countries-info/laos.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="47" column="48" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+            <state relative-caret-position="238">
+              <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
@@ -61,6 +51,16 @@
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="l.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/countries/l.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/views/countries-info/ethiopia.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/fiji.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/finland.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/france.html" />
@@ -129,9 +128,10 @@
         <option value="$PROJECT_DIR$/app/views/countries-info/kuwait.html" />
         <option value="$PROJECT_DIR$/app/views/countries/k.html" />
         <option value="$PROJECT_DIR$/app/views/countries-info/kyrgyzstan.html" />
+        <option value="$PROJECT_DIR$/app/views/countries-info/laos.html" />
         <option value="$PROJECT_DIR$/app/views/countries/l.html" />
         <option value="$PROJECT_DIR$/app/js/app.js" />
-        <option value="$PROJECT_DIR$/app/views/countries-info/laos.html" />
+        <option value="$PROJECT_DIR$/app/views/countries-info/latvia.html" />
       </list>
     </option>
   </component>
@@ -390,12 +390,12 @@
       <workItem from="1465495005153" duration="3649000" />
       <workItem from="1465791990665" duration="859000" />
       <workItem from="1466140337337" duration="4781000" />
-      <workItem from="1466224740677" duration="1020000" />
+      <workItem from="1466224740677" duration="1348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285224000" />
+    <option name="totallyTimeSpent" value="285552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -438,13 +438,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/ethiopia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/countries-info/fiji.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -764,18 +757,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="405" column="51" selection-start-line="405" selection-start-column="51" selection-end-line="405" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/countries-info/kyrgyzstan.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="47" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#h1#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#2;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries/l.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="408" column="53" selection-start-line="408" selection-start-column="53" selection-end-line="408" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/laos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="47" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />
@@ -787,18 +803,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries/l.html">
+    <entry file="file://$PROJECT_DIR$/app/views/countries-info/latvia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/countries-info/laos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="47" column="48" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+        <state relative-caret-position="238">
+          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#2;n#!!top" expanded="true" />

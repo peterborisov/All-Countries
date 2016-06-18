@@ -405,6 +405,31 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
+         .when('/latvia', {
+            templateUrl: 'views/countries-info/latvia.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+        
         .otherwise({
             redirectTo: '/'
         });
