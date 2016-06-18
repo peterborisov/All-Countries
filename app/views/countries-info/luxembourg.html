@@ -1,0 +1,81 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Luxembourg<img src="img/luxembourg-flag.gif" alt="" style="margin-left: 30px"
+                                           onclick="view('img/luxembourg-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/GWnUU3u7Cfg></iframe>
+    </div>
+    <div id="content" class="thumbnail">
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        520,672
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        998 sq mi <br/> (2,585 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Euro (formerly Luxembourg franc)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Luxembourg <br/>  94,000
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities:<br/>
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/luxembourg-map.gif" class="img-thumbnail" onclick="view('img/luxembourg-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Luxembourg is about half the size of Delaware.
+            The Ardennes Mountains extend from Belgium into the northern section of Luxembourg.
+            The rolling plateau of the fertile Bon Pays is in the south.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/l">Back to L</a></button>
+    </div>
+</div>
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
