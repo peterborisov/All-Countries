@@ -1,0 +1,81 @@
+<div ng-include="'views/navbar-header.html'"></div>
+<div class="coverImg">
+    <img src="img/world-map.png">
+</div>
+<div id="wrapper" style="width: 100%">
+    <h1 style="color: white">Lebanon<img src="img/lebanon-flag.gif" alt="" style="margin-left: 30px"
+                                        onclick="view('img/lebanon-flag.gif')"></h1>
+    <div style="height: 210px;float: right">
+        <iframe class="img-thumbnail" style="width: 100%;height: 100%"
+                src=https://www.youtube.com/v/CgEtRi6DFNo></iframe>
+    </div>
+    <div id="content" class="thumbnail">
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Population: <br/>
+                        5,882,562
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Total area: <br/>
+                        4,015 sq mi <br/>(10,400 sq km)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Money: <br/>
+                        Lebanese pound
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        Capital: <br/>
+                        Beirut <br/>2.022 million
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="cities" class="moving-zone">
+            <div class="popup">
+                <div class="popup-content">
+                    <div class="popup-text">
+                        <span> Large cities:<br/>
+                           </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/lebanon-map.gif" class="img-thumbnail" onclick="view('img/lebanon-map.gif')"/>
+    <div id="geography" style="color: white">
+        <p>
+            Lebanon lies at the eastern end of the Mediterranean Sea, north of Israel and west of Syria.
+            It is four-fifths the size of Connecticut. The Lebanon Mountains,
+            which run parallel to the western coast, cover most of the country, while on the eastern border is the Anti-Lebanon range.
+        </p>
+    </div>
+    <div class="divButton">
+        <button id="left"><a href="#/a-z">Back to A-Z</a></button>
+        <button id="right"><a href="#/l">Back to L</a></button>
+    </div>
+</div>
+<script type="text/javascript">
+    function view(imgSrc) {
+        a = window.open(imgSrc, 'a', 'width=auto,height=auto');
+    }
+</script>
