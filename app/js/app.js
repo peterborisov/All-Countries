@@ -440,8 +440,8 @@ app.config(['$routeProvider', function ($routeProvider) {
          .when('/malawi', {
             templateUrl: 'views/countries-info/malawi.html'
         })
-         .when('/laos', {
-            templateUrl: 'views/countries-info/laos.html'
+         .when('/malaysia', {
+            templateUrl: 'views/countries-info/malaysia.html'
         })
          .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
