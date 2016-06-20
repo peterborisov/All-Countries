@@ -429,6 +429,65 @@ app.config(['$routeProvider', function ($routeProvider) {
          .when('/luxembourg', {
             templateUrl: 'views/countries-info/luxembourg.html'
         })
+
+         //'М' countries
+        .when('/мacedonia', {
+            templateUrl: 'views/countries-info/мacedonia.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
+         .when('/laos', {
+            templateUrl: 'views/countries-info/laos.html'
+        })
         
         .otherwise({
             redirectTo: '/'
