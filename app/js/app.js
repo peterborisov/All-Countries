@@ -3,7 +3,7 @@
 // Declare app level module which depends on views, and components
 var app = angular.module('allCountries', ['ngRoute', 'ngResource', 'ngStorage'])
     .config(['$routeProvider', function ($routeProvider) {
-        $routeProvider.otherwise({redirectTo: '/'});
+        $routeProvider.otherwise({ redirectTo: '/' });
     }]);
 
 app.config(['$routeProvider', function ($routeProvider) {
@@ -405,90 +405,90 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/latvia', {
+        .when('/latvia', {
             templateUrl: 'views/countries-info/latvia.html'
         })
-         .when('/lebanon', {
+        .when('/lebanon', {
             templateUrl: 'views/countries-info/lebanon.html'
         })
-         .when('/lesotho', {
+        .when('/lesotho', {
             templateUrl: 'views/countries-info/lesotho.html'
         })
-         .when('/liberia', {
+        .when('/liberia', {
             templateUrl: 'views/countries-info/liberia.html'
         })
-         .when('/libya', {
+        .when('/libya', {
             templateUrl: 'views/countries-info/libya.html'
         })
-         .when('/liechtenstein', {
+        .when('/liechtenstein', {
             templateUrl: 'views/countries-info/liechtenstein.html'
         })
-         .when('/lithuania', {
+        .when('/lithuania', {
             templateUrl: 'views/countries-info/lithuania.html'
         })
-         .when('/luxembourg', {
+        .when('/luxembourg', {
             templateUrl: 'views/countries-info/luxembourg.html'
         })
 
-         //'М' countries
+        //'М' countries
         .when('/macedonia', {
             templateUrl: 'views/countries-info/macedonia.html'
         })
-         .when('/madagascar', {
+        .when('/madagascar', {
             templateUrl: 'views/countries-info/madagascar.html'
         })
-         .when('/malawi', {
+        .when('/malawi', {
             templateUrl: 'views/countries-info/malawi.html'
         })
-         .when('/malaysia', {
+        .when('/malaysia', {
             templateUrl: 'views/countries-info/malaysia.html'
         })
-         .when('/maldives', {
+        .when('/maldives', {
             templateUrl: 'views/countries-info/maldives.html'
         })
-         .when('/mali', {
+        .when('/mali', {
             templateUrl: 'views/countries-info/mali.html'
         })
-         .when('/malta', {
+        .when('/malta', {
             templateUrl: 'views/countries-info/malta.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-         .when('/laos', {
+        .when('/laos', {
             templateUrl: 'views/countries-info/laos.html'
         })
-        
+
         .otherwise({
             redirectTo: '/'
         });
